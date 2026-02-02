@@ -1,4 +1,4 @@
-## Hi there 👋````````````````````
+## Hi there 👋
 ```
   ㅤㅤㅤㅤ ㅤㅤ ㅤㅤㅤㅤㅤㅤㅤ' '''   '' 
 ㅤㅤ ㅤㅤㅤㅤㅤㅤㅤ ㅤㅤ '"'"'"'"'"'"'" 
@@ -17,14 +17,14 @@
  | e_________ |
 
 ```
-
+```
 > AI Create as readme.md github profile fully complete as Cool Profile 😎
 
 > Gemini
 > Chatgpt
 >  Ms.copilot
 >  [...] -_-
-
+```
 
 <!--
 Gemini
