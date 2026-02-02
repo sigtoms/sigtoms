@@ -9,7 +9,19 @@
    (_)  |_]\  //|\\    ///     `````
   //_]  / \  //   \\.  ///   ```````
 `
+   ^^^^^^^^^
+ ^^^^^^^^^^^^
+^^^^^^^^^^^^^^
+| f________g |
+| e_________ |
 
+AI Create as readme.md github profile fully complete as Cool Profile 😎
+Gemini
+Chatgpt
+Ms.copilot
+[...] -_-
+
+<--
 Gemini
 
 # Hi there, I'm [Your Name]! 👋
@@ -147,4 +159,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+-->
