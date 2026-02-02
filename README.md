@@ -9,7 +9,46 @@
    (_)  |_]\  //|\\    ///     `````
   //_]  / \  //   \\.  ///   ```````
 `
-<!--
+
+Gemini
+
+# Hi there, I'm [Your Name]! 👋
+### 🚀 Full-Stack Developer | Open Source Enthusiast | Lifelong Learner
+
+---
+
+## 💫 About Me
+- 🔭 I’m currently working on **[Project Name]**
+- 🌱 I’m currently learning **[Language/Framework, e.g., Rust or Next.js]**
+- 💬 Ask me about **[Topic, e.g., React, Python, or UI Design]**
+- ⚡ Fun fact: **[Insert a quirky fact about yourself]**
+
+---
+
+## 🛠️ My Tech Stack
+
+### 🌐 Frontend
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+### 🖥️ Backend & Database
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PostgreSQL
+
+
+Chat-gpt
+
+# 👋 Hi, I'm <Your Name>
+
+🚀 **<Your Role> | <Your Main Tech Stack>**  
+🌍 Based in <Your Location>  
+💡 Passionate about building scalable, user-friendly, and impactful software
+
+---
+
+## 🧠 About Me
+
+- 🔭 I’m currently working on **<Project / Area of Focus>**
+- 🌱 I’m le
+
 
 ms.copilot
 
@@ -92,6 +131,8 @@ I love building impactful projects, exploring new technologies, and sharing know
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=YOUR_USERNAME.YOUR_USERNAME)
 
+[...]
+
 -- default
 
 **sigtoms/sigtoms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -106,4 +147,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
